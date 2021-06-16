@@ -8,5 +8,5 @@ Clean Code 클린 코드 애자일 소프트웨어 장인 정신, 로버트 C. �
 
 ### ※ 개인적으로 이해한 대로 정리한 글
 ## Contents
-- 2장 [의미있는 이름] (https://github.com/ohsoou/CleanCodeStudy/blob/main/chapter1.md)
-- 3장 함수
+- 2장 [의미있는 이름] (https://github.com/ohsoou/CleanCodeStudy/blob/main/chapter2.md)
+- 3장 [함수] (https://github.com/ohsoou/CleanCodeStudy/blob/main/chapter3.md)
