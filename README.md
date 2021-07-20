@@ -11,3 +11,4 @@ Clean Code 클린 코드 애자일 소프트웨어 장인 정신, 로버트 C. �
 - 2장 [의미있는 이름](https://github.com/ohsoou/CleanCodeStudy/blob/main/chapter2.md)
 - 3장 [함수](https://github.com/ohsoou/CleanCodeStudy/blob/main/chapter3.md)
 - 4장 [주석](https://github.com/ohsoou/CleanCodeStudy/blob/main/chapter4.md)
+- 6장 [주석](https://github.com/ohsoou/CleanCodeStudy/blob/main/chapter6.md)
